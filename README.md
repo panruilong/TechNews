@@ -32,11 +32,11 @@ TechNews creates a seamless reading experience for Hacker News, featuring concur
 
 ##  Screenshots (截图预览)
 
-![截屏2026-01-04 下午2.07.32](/Users/panruilong/Desktop/截屏2026-01-04 下午2.07.32.png)
+## 📸 Screenshots
 
-![截屏2026-01-04 下午2.07.32](/Users/panruilong/Desktop/截屏2026-01-04 下午2.07.52.png)
-
-![截屏2026-01-04 下午2.08.05](/Users/panruilong/Desktop/截屏2026-01-04 下午2.08.05.png)
+| 首页                      | 网页                     | 收藏                     |
+| ------------------------- | ------------------------ | ------------------------ |
+| ![](screenshots/home.png) | ![](screenshots/web.png) | ![](screenshots/fav.png) |
 
 ##  How to Run (如何运行)
 
