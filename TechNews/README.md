@@ -1,7 +1,5 @@
 # TechNews
 
-# 📱 TechNews
-
 [![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2016.0+-lightgrey.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -13,7 +11,7 @@ TechNews creates a seamless reading experience for Hacker News, featuring concur
 
 ---
 
-## ✨ Features (核心亮点)
+##  Features (核心亮点)
 
 | Feature                   | Description                                                  |
 | ------------------------- | ------------------------------------------------------------ |
@@ -24,7 +22,7 @@ TechNews creates a seamless reading experience for Hacker News, featuring concur
 | **Hybrid Development**    | Integrated `SFSafariViewController` using `UIViewControllerRepresentable`. <br>混合开发，集成原生 Safari 浏览体验。 |
 | **Code Quality**          | Linted by `SwiftLint` and tested with `XCTest`. <br>代码规范检查与单元测试覆盖。 |
 
-## 🛠 Tech Stack (技术栈)
+##  Tech Stack (技术栈)
 
 *   **Language:** Swift 5
 *   **UI Framework:** SwiftUI (NavigationStack, TabView)
@@ -32,12 +30,15 @@ TechNews creates a seamless reading experience for Hacker News, featuring concur
 *   **Image Loading:** Kingfisher
 *   **Tools:** SwiftLint, SPM, XCTest
 
-## 📸 Screenshots (截图预览)
+##  Screenshots (截图预览)
 
-*(Tips: 把你的截图拖到这里，GitHub 会自动生成链接)*
-<img src="你的截图链接1" width="200"/> <img src="你的截图链接2" width="200"/> <img src="你的截图链接3" width="200"/>
+![截屏2026-01-04 下午2.07.32](/Users/panruilong/Desktop/截屏2026-01-04 下午2.07.32.png)
 
-## 🚀 How to Run (如何运行)
+![截屏2026-01-04 下午2.07.32](/Users/panruilong/Desktop/截屏2026-01-04 下午2.07.52.png)
+
+![截屏2026-01-04 下午2.08.05](/Users/panruilong/Desktop/截屏2026-01-04 下午2.08.05.png)
+
+##  How to Run (如何运行)
 
 1.  Clone the repository:
     ```bash
@@ -49,7 +50,7 @@ TechNews creates a seamless reading experience for Hacker News, featuring concur
 
 ---
 
-### 👨‍💻 Author
+###  Author
 
 **Pan Ruilong**
 *   Aspiring iOS Developer
