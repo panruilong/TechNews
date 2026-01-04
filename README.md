@@ -42,7 +42,7 @@ TechNews creates a seamless reading experience for Hacker News, featuring concur
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/你的用户名/TechNews.git
+    git clone https://github.com/panruilong/TechNews.git
 
 2.  Open `TechNews.xcodeproj` in Xcode 15+.
 3.  Wait for SPM to fetch dependencies (Alamofire, Kingfisher).
